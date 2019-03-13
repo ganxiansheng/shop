@@ -25,7 +25,7 @@
        	</div>
     </div>
     
-    <script type="text/javascript">
+    <script type="te  xt/javascript">
     	$("#login").click(function(){
     		var username = $("[name=username]").val();
     		var password = $("[name=password]").val();
